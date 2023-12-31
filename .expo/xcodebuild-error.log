@@ -1,0 +1,6 @@
+2023-12-31 21:16:09.540 xcodebuild[20203:138391] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled)
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:iOS Simulator, id:DF0FCFA8-5C6F-4AC9-9A82-D41DBE58A064, OS:16.4, name:iPhone 14 Plus }
+{ platform:iOS Simulator, id:DF0FCFA8-5C6F-4AC9-9A82-D41DBE58A064, OS:16.4, name:iPhone 14 Plus }
+** BUILD FAILED **
+

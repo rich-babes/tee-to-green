@@ -1,0 +1,18 @@
+Command line invocation:
+    /Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project /Users/richardsmith/git/tee-to-green/ios/golfgames.xcodeproj -configuration Debug -scheme golfgames -destination id=DF0FCFA8-5C6F-4AC9-9A82-D41DBE58A064
+
+User defaults from command line:
+    IDEPackageSupportUseBuiltinSCM = YES
+
+Prepare packages
+
+Computing target dependency graph and provisioning inputs
+
+Create build description
+Build description signature: 18b5267d8c720b56c0fe21f68542bd55
+Build description path: /Users/richardsmith/Library/Developer/Xcode/DerivedData/golfgames-fpptgdygrhjmkzfkzzfyiurqwurp/Build/Intermediates.noindex/XCBuildData/18b5267d8c720b56c0fe21f68542bd55.xcbuilddata
+
+note: Building targets in dependency order
+/Users/richardsmith/git/tee-to-green/ios/Pods/Target Support Files/Pods-golfgames/Pods-golfgames.debug.xcconfig:1:1: error: unable to open configuration settings file
+warning: Run script build phase 'Bundle React Native code and images' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'golfgames' from project 'golfgames')
+warning: Run script build phase 'Start Packager' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'golfgames' from project 'golfgames')
